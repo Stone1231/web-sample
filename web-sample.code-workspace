@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "node-be"
+		},
+		{
+			"path": "react-fe"
+		},
+		{
+			"path": "redux-fe"
+		}
+	]
+}

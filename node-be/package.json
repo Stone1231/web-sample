@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@types/cors": "^2.8.1",
+    "@types/js-yaml": "^3.9.0",
+    "@types/node": "^8.0.14",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "install": "^0.10.1",
+    "npm": "^6.4.1",
+    "reflect-metadata": "^0.1.10",
+    "sqlite3": "^4.0.9",
+    "ts-loader": "^6.0.4",
+    "typeorm": "0.0.11"
+  }
+}
