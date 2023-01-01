@@ -10,7 +10,7 @@
     "npm": "^6.4.1",
     "reflect-metadata": "^0.1.10",
     "sqlite3": "^4.0.9",
-    "ts-loader": "^6.0.4",
+    "ts-loader": "^9.4.2",
     "typeorm": "0.0.11"
   }
 }
